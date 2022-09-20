@@ -19,7 +19,7 @@ I want to increase my object oriented programming skills and I want to increase 
 C++. To achieve these goals, I am currently working through a YouTube tutorial entitled "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding 
 Challenges". I am looking for toy examples where I can learn R and C++. If you have any suggestions, I'd love to hear them!
 
-## My Links
+## &#128205; My Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>
 <img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/hscp/student-information/a-bridge-to-the-stars.html)
 

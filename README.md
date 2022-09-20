@@ -6,6 +6,7 @@
 Contained in my github are all of my coding projects and the raw .tex files for technical reports and publications that I have authored. I code primarily in Python, but I have experience with LaTex, JavaScript, MatLab, and HTML. Additionally, am working towards expanding my language skills to R and C++.
 
 ## &#128105;&#127996; About me
+### Pronouns: She/Her/Hers
 I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
 about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
 December.  I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Specifically, I am 
@@ -18,10 +19,6 @@ I am skilled with translating high level topics into digestible language that ca
 I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and 
 C++. To achieve these goals, I am currently working through a YouTube tutorial entitled "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding 
 Challenges". I am looking for toy examples where I can learn R and C++. If you have any suggestions, I'd love to hear them!
-
-## &#128205; My Links
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>
-<img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/hscp/student-information/a-bridge-to-the-stars.html)
 
 ## &#127919; My Accomplishments
 
@@ -75,9 +72,11 @@ Challenges". I am looking for toy examples where I can learn R and C++. If you h
        2017 Spring Meeting.</li>
 </ul>
 
+## &#128279; My Links
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>
+<img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/hscp/student-information/a-bridge-to-the-stars.html)
 
 <!--
-
 
 **higgins4286/higgins4286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

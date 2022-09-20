@@ -33,7 +33,7 @@ Challenges". I am looking for toy examples where I can learn R and C++. If you h
   <li>Summa Cum Laude - University of Missouri - Kansas City</li> 
 </ul>
 
-### &#127941; Posters and Publications
+### &#128196; Posters and Publications
 <ul>
   <li>“21 cm Cosmology and the Near Infrared Background,” Lauren Higgins, Anna Schauer, Volker        
                  Bromm, Jan. 6, 2020, 235th Meeting of the American Astronomical Society, Honolulu, HI, abstract     
@@ -59,7 +59,7 @@ Challenges". I am looking for toy examples where I can learn R and C++. If you h
         Weston, Madalyn E., Daniel H. McIntosh, Kameswara Mantha, Lauren Higgins, 2019 in prep.</li>
  </ul>
 
-### &#127941; Presentations
+### &#127897; Presentations
 <ul>
   <li> “Spectral Energy Distributions of WISE-Selected Obscured AGNs in the Local Universe”
         Lauren Higgins, Madalyn E. Weston, Daniel H. McIntosh, Nicholas Putnam. Apr. 27th, Missouri    

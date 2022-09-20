@@ -6,7 +6,7 @@
 Contained in my github are all of my coding projects and the raw .tex files for technical reports and publications that I have authored. I code primarily in Python, but I have experience with LaTex, JavaScript, MatLab, and HTML. Additionally, am working towards expanding my language skills to R and C++.
 
 ## &#128105;&#127996; About me
-### Pronouns: She/Her/Hers
+#### Pronouns: She/Her/Hers
 I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
 about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
 December.  I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Specifically, I am 

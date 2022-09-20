@@ -1,24 +1,36 @@
-# Hi there 👋
+# 👋 Hello there! 
 
-Welcome to my github!
+<i>Welcome to my github! I so am glad you found me!</i> &#128513;
 
-## What you'll find here
+## &#128064; What you'll find here
 Contained in my github all of my coding project over the last five years of my coding experience. I write primarily in Python, but I have experience with 
-JavaScript, LaTex, and HTML. 
+JavaScript, LaTex, and HTML. I want to increase my language skills to R and C++.
 
-## About me
+## &#128105;&#127996; About me
 I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
-about physical properties of something as large as a galaxy to something as small as electrons on the surface of metal. I want to translate the 
-programming, data interpretation, and machine learning skills I have gained to industry data.
+about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
+December.  I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Specifically, I am 
+interested in deep learning algorithms utilized Anti Money Laundering, Human Resources, Clean Energy, and self driving cars.
 
 I love public speaking and educating. My favorite part of my experience in Astronomy was giving talks about my research and I also loved tutoring students. 
 I am skilled with translating high level topics into digestible language that can be understood by folks who do not have expertise in the subject.
 
-## My Goals
-I am currently working on increasing my experience with JavaScript/Java as I want to increase my object oriented programming 
-skill set. I am also learning R.
+## &#127919; My Accomplishments
+
+## &#129349; My Goals 
+I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and 
+C++. To achieve these goals, I am currently working through a YouTube tutorial entitled "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding 
+Challenges". I am looking for toy examples where I can learn R and C++. If you have any suggestions, I'd love to hear them!
+
+## My Links
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/)
+
 
 <!--
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
+
+
 **higgins4286/higgins4286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

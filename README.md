@@ -16,24 +16,15 @@ I love public speaking and educating. I am skilled with translating high level t
 have expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research. Along with creating algorithms, I aim to 
 make public speaking as a prominent aspect of my professional life.  
 
-⚡ Five fun facts about me: 
-<ol>
-  <li>Nail art is my favorite creative hobby.</li>
-  <li>I got married this year in San Diego.</li>
-  <li>Weight training is my favorite way to exercise.</li>
-  <li>My cat is the greatest.</li>
-  <li>Last, (but not least) I have 5 wonderful nieces and nephews.</li>
-</ol>
-
-## &#129349; My Goals 
+### &#129349; My Goals 
 
 I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and C++. To achieve these goals, I am currently 
 working through a YouTube tutorial entitled "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges" and R and C++ tutorials on 
 w3schools. If you have any other helpful suggestions, I'd love to hear them!
 
-## &#127919; My Accomplishments
+### &#127919; My Accomplishments
 
-### &#127941; Awards and Scholarships
+#### &#127941; Awards and Scholarships
 <ul>
   <li>Universities Space Research Association Undergraduate Award, Honorable Mention</li> 
   <li>Undergraduate Research Fellow Distinction - University of Missouri - Kansas City</li> 
@@ -41,7 +32,7 @@ w3schools. If you have any other helpful suggestions, I'd love to hear them!
   <li>Summa Cum Laude - University of Missouri - Kansas City</li> 
 </ul>
 
-### &#128196; Posters and Publications
+#### &#128196; Posters and Publications
 <ul>
   <li>“21 cm Cosmology and the Near Infrared Background,” Lauren Higgins, Anna Schauer, Volker        
                  Bromm, Jan. 6, 2020, 235th Meeting of the American Astronomical Society, Honolulu, HI, abstract     
@@ -67,7 +58,7 @@ w3schools. If you have any other helpful suggestions, I'd love to hear them!
         Weston, Madalyn E., Daniel H. McIntosh, Kameswara Mantha, Lauren Higgins, 2019 in prep.</li>
  </ul>
 
-### &#127897; Presentations
+#### &#127897; Presentations
 <ul>
   <li> “Spectral Energy Distributions of WISE-Selected Obscured AGNs in the Local Universe”
         Lauren Higgins, Madalyn E. Weston, Daniel H. McIntosh, Nicholas Putnam. Apr. 27th, Missouri    
@@ -82,6 +73,15 @@ w3schools. If you have any other helpful suggestions, I'd love to hear them!
        Jennings, Rubyet Even, Lauren Higgins, Yana Yen. April 21st. Missouri Space Grant Consortium  
        2017 Spring Meeting.</li>
 </ul>
+
+### ⚡ Five fun facts about me: 
+<ol>
+  <li>Nail art is my favorite creative hobby.</li>
+  <li>I got married this year in San Diego.</li>
+  <li>Weight training is my favorite way to exercise.</li>
+  <li>My cat is the greatest.</li>
+  <li>Last, (but not least) I have 5 wonderful nieces and nephews.</li>
+</ol>
 
 ## &#128279; My Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>

@@ -16,6 +16,15 @@ I love public speaking and educating. I am skilled with translating high level t
 have expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research. Along with creating algorithms, I aim to 
 make public speaking as a prominent aspect of my professional life.  
 
+⚡ Five fun facts about me: 
+<ol>
+  <li>Nail art is my favorite creative hobby.</li>
+  <li>I got married this year in San Diego.</li>
+  <li>Weight training is my favorite way to exercise.</li>
+  <li>My cat is the greatest.</li>
+  <li>Last, (but not least) I have 5 wonderful nieces and nephews.</li>
+</ol>
+
 ## &#129349; My Goals 
 
 I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and C++. To achieve these goals, I am currently 

@@ -13,7 +13,8 @@ about physical properties of objects as large as a galaxy to objects as small as
 December. I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data.
 
 I love public speaking and educating. I am skilled with translating high level topics into digestible language that can be understood by folks who do not 
-have expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research.  
+have expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research. Along with creating algorithms, I aim to 
+make public speaking as a prominent aspect of my professional life.  
 
 ## &#129349; My Goals 
 

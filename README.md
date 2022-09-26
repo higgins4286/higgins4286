@@ -60,6 +60,7 @@ w3schools. If you have any other helpful suggestions, I'd love to hear them!
 
 #### &#127897; Presentations
 <ul>
+  <li> "Tree Rings in Dark Energy Survey Camera" Lauren Higgins. Aug. 14th, SLACK Intern Deliverables Presentation. </li>
   <li> “Spectral Energy Distributions of WISE-Selected Obscured AGNs in the Local Universe”
         Lauren Higgins, Madalyn E. Weston, Daniel H. McIntosh, Nicholas Putnam. Apr. 27th, Missouri    
         Space Grant Consortium 2019 Spring Meeting.</li>

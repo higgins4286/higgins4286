@@ -86,7 +86,7 @@ w3schools. If you have any other helpful suggestions, I'd love to hear them!
 
 ## &#128279; My Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>
-<img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/hscp/student-information/a-bridge-to-the-stars.html)
+<img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/mide/abridgetothestars/)
 
 <!--
 

@@ -37,12 +37,15 @@ working through Java, R, and C++ tutorials on w3schools. If you have any other h
 ### &#127919; My Accomplishments
 
 #### &#127941; Awards and Scholarships
-<ul>
-  <li>Universities Space Research Association Undergraduate Award, Honorable Mention</li> 
-  <li>Undergraduate Research Fellow Distinction - University of Missouri - Kansas City</li> 
-  <li>NASA Missouri Space Grant Scholarship</li> 
-  <li>Summa Cum Laude - University of Missouri - Kansas City</li> 
-</ul>
+<details>
+<summary>Click to see</summary>
+  <ul>
+    <li>Universities Space Research Association Undergraduate Award, Honorable Mention</li> 
+    <li>Undergraduate Research Fellow Distinction - University of Missouri - Kansas City</li> 
+    <li>NASA Missouri Space Grant Scholarship</li> 
+    <li>Summa Cum Laude - University of Missouri - Kansas City</li> 
+  </ul>
+</details>
 
 #### &#128196; Posters and Publications
 <details>

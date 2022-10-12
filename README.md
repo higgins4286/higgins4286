@@ -14,9 +14,22 @@ December. I want to translate the programming, data interpretation, and machine 
 
 I love public speaking and educating. I am skilled with translating high level topics into digestible language that can be understood by folks who do not 
 have expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research. Along with creating algorithms, I aim to 
-make public speaking as a prominent aspect of my professional life.  
+make public speaking as a prominent aspect of my professional life.
 
-### &#129349; My Goals 
+#### &#128279; My Links
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>
+<img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/mide/a-bridge-to-the-stars/)
+
+#### ⚡ Five fun facts about me: 
+<ol>
+  <li>Nail art is my favorite creative hobby.</li>
+  <li>I got married this year in San Diego.</li>
+  <li>Weight training is my favorite way to exercise.</li>
+  <li>My cat is the greatest.</li>
+  <li>Last, (but not least) I have 5 wonderful nieces and nephews.</li>
+</ol>
+
+## &#129349; My Goals 
 
 I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and C++. To achieve these goals, I am currently 
 working through a YouTube tutorial entitled "Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges" and R and C++ tutorials on 
@@ -74,19 +87,6 @@ w3schools. If you have any other helpful suggestions, I'd love to hear them!
        Jennings, Rubyet Even, Lauren Higgins, Yana Yen. April 21st. Missouri Space Grant Consortium  
        2017 Spring Meeting.</li>
 </ul>
-
-### ⚡ Five fun facts about me: 
-<ol>
-  <li>Nail art is my favorite creative hobby.</li>
-  <li>I got married this year in San Diego.</li>
-  <li>Weight training is my favorite way to exercise.</li>
-  <li>My cat is the greatest.</li>
-  <li>Last, (but not least) I have 5 wonderful nieces and nephews.</li>
-</ol>
-
-## &#128279; My Links
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>
-<img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/mide/abridgetothestars/)
 
 <!--
 

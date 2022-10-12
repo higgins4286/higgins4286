@@ -2,14 +2,13 @@
 
 <i>Welcome to my github! I am so glad you found me!</i> &#128513;
 
-## &#128064; What you'll find here
+## &#128064; What you'll find here 
 Contained in my github are all of my coding projects and the raw .tex files for technical reports and publications that I have authored. I code primarily 
 in Python, but I have experience with LaTex, JavaScript, MatLab, SQL, and HTML. Additionally, I am working towards expanding my language skills to R and 
 C++.
 
 ## &#128105;&#127996; About me
 #### Pronouns: She/Her/Hers </br> Email: lahn7d@mail.umkc.edu
-
 I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
 about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
 December. I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Additionally, I love 
@@ -22,7 +21,6 @@ public speaking as a prominent aspect of my professional life.
 <img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/mide/a-bridge-to-the-stars/)
 
 ### &#129349; My Goals 
-
 I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and C++. To achieve these goals, I am currently 
 working through Java, R, and C++ tutorials on w3schools. If you have any other helpful suggestions, I'd love to hear them!
 

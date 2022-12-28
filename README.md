@@ -11,7 +11,7 @@ C++.
 #### Pronouns: She/Her/Hers </br> Email: lahn7d@mail.umkc.edu
 I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
 about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
-December. I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Additionally, I love 
+January. I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Additionally, I love 
 public speaking and educating. I am skilled with translating high level topics into digestible language that can be understood by folks who do not have 
 expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research. Along with creating algorithms, I aim to make 
 public speaking as a prominent aspect of my professional life.

@@ -20,8 +20,7 @@ public speaking as a prominent aspect of my professional life.
 <img src="https://i.imgur.com/TZcJ1CK.png" width="20"> [A Bridge to The Stars](https://www.umkc.edu/mide/a-bridge-to-the-stars/)
 
 ### &#129349; My Goals 
-I want to increase my object oriented programming skills and I want to increase my fluency in Java, R, and C++. To achieve these goals, I am currently 
-working through Java, R, and C++ tutorials on w3schools. If you have any other helpful suggestions, I'd love to hear them!
+I am looking for a full-time position working on data analytics and/or machine learning.
 
 ### &#127919; My Accomplishments
 

@@ -8,11 +8,11 @@ in Python, but I have experience with Java, MatLab, SQL, R, and HTML.
 
 ## &#128105;&#127996; About me
 #### Pronouns: She/Her/Hers </br> Email: lhiggins86@gmail.com
-○ Talented data scientist with a background in machine learning, data analytics, data visualization, and physics.
-○ High Python Skills: ScikitLearn, Pytorch, TensorFlow, Keras, Cuda, Numpy, SciPy, MatplotLib, Pandas.
-○ Track record of expeditious data analysis, writing meaningful reports, and skillfully presenting findings.
-○ Able to work collaboratively as a part of a team to reach research goals and develop new processes.
-○ Reliable, Adaptable, Creative, Attention to Detail, Organized, Empathic and Compassionate Professional.
+<li>○ Talented data scientist with a background in machine learning, data analytics, data visualization, and physics.</li>
+<li>○ High Python Skills: ScikitLearn, Pytorch, TensorFlow, Keras, Cuda, Numpy, SciPy, MatplotLib, Pandas.</li>
+<li>○ Track record of expeditious data analysis, writing meaningful reports, and skillfully presenting findings.</li>
+<li>○ Able to work collaboratively as a part of a team to reach research goals and develop new processes.</li>
+<li>○ Reliable, Adaptable, Creative, Attention to Detail, Organized, Empathic and Compassionate Professional.</li>
 
 #### &#128279; My Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>

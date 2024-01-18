@@ -8,12 +8,11 @@ in Python, but I have experience with Java, MatLab, SQL, R, and HTML.
 
 ## &#128105;&#127996; About me
 #### Pronouns: She/Her/Hers </br> Email: lhiggins86@gmail.com
-I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
-about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
-January. I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Additionally, I love 
-public speaking and educating. I am skilled with translating high level topics into digestible language that can be understood by folks who do not have 
-expertise in the subject. My favorite part of my experience in Astronomy was giving talks about my research. Along with creating algorithms, I aim to make 
-public speaking as a prominent aspect of my professional life.
+○ Talented data scientist with a background in machine learning, data analytics, data visualization, and physics.
+○ High Python Skills: ScikitLearn, Pytorch, TensorFlow, Keras, Cuda, Numpy, SciPy, MatplotLib, Pandas.
+○ Track record of expeditious data analysis, writing meaningful reports, and skillfully presenting findings.
+○ Able to work collaboratively as a part of a team to reach research goals and develop new processes.
+○ Reliable, Adaptable, Creative, Attention to Detail, Organized, Empathic and Compassionate Professional.
 
 #### &#128279; My Links
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/lauren-anne-higgins/) </br>

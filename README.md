@@ -4,11 +4,10 @@
 
 ## &#128064; What you'll find here 
 Contained in my github are all of my coding projects and the raw .tex files for technical reports and publications that I have authored. I code primarily 
-in Python, but I have experience with LaTex, JavaScript, MatLab, SQL, and HTML. Additionally, I am working towards expanding my language skills to R and 
-C++.
+in Python, but I have experience with Java, MatLab, SQL, R, and HTML. 
 
 ## &#128105;&#127996; About me
-#### Pronouns: She/Her/Hers </br> Email: lahn7d@mail.umkc.edu
+#### Pronouns: She/Her/Hers </br> Email: lhiggins86@gmail.com
 I have spent the last 7 years in higher education studying Physics and Astronomy. I have learned how to work with large data sets to come to conclusions 
 about physical properties of objects as large as a galaxy to objects as small as electrons on the surface of metal. I graduate with an MS in Physics this 
 January. I want to translate the programming, data interpretation, and machine learning skills I have gained to industry data. Additionally, I love 
